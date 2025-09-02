@@ -1,0 +1,1 @@
+python train_net.py --eval-only --num-gpus 1 --config-file configs/gsd-s/semantic-segmentation/Base-ADE20K-SAM-Base-SemanticSegmentation.yaml MODEL.WEIGHTS ../GEM_Base_Finetune_GSD-S_pretrained_20xdata_IoU0.774.pth
